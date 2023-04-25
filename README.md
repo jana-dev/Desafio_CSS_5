@@ -8,6 +8,6 @@
 - transform: rotate
 - transform: translate
 
-![Imagem em gif do icone de menu fullscreen](https://github.com/jana-dev/Desafio_CSS_5/blob/master/css5.gif)
+- https://jana-dev.github.io/Desafio_CSS_5/
 
 
